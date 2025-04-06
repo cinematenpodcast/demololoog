@@ -15,7 +15,7 @@ function App() {
     <div className="min-h-screen bg-slate-900 text-white">
       {/* Hero Section */}
       <section className="relative h-[50vh] md:h-screen flex items-center justify-center">
-        <div className="absolute inset-0 bg-[url('/images/de-mololoog-header.jpg')] bg-cover bg-center" />
+        <div className="absolute inset-0 bg-[url('/images/de-mololoog-header.webp')] bg-cover bg-center" />
         <a href="#about" className="absolute bottom-8 animate-bounce">
           <ChevronDown size={32} className="text-teal-400" />
         </a>
