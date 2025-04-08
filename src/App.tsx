@@ -217,6 +217,7 @@ function App() {
             </a>
           </div>
           <p className="text-gray-400">&copy; {new Date().getFullYear()} De Mololoog. Alle rechten voorbehouden.</p>
+          <p className="text-gray-400 text-sm">Deze website is niet geassocieerd met GoPlay/Play Media.</p>
         </div>
       </footer>
     </div>
