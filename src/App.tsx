@@ -201,7 +201,7 @@ function App() {
 
       {/* Footer */}
       <footer className="bg-slate-800 py-8 px-4">
-        <div className="max-w-5xl mx-auto flex flex-col items-center gap-6">
+        <div className="max-w-5xl mx-auto flex flex-col items-center gap-4">
           <div className="flex gap-6">
             <a href="https://www.instagram.com/cinematen_podcast" className="text-gray-400 hover:text-[#59C1C7] transition-colors" target="_blank" rel="noopener noreferrer" aria-label="Volg ons op Instagram">
               <Instagram size={24} />
@@ -216,8 +216,10 @@ function App() {
               <YoutubeIcon size={24} />
             </a>
           </div>
-          <p className="text-gray-400">&copy; {new Date().getFullYear()} De Mololoog. Alle rechten voorbehouden.</p>
-          <p className="text-gray-400 text-sm">Deze website is niet geassocieerd met GoPlay/Play Media.</p>
+          <div className="flex flex-col items-center -space-y-1">
+            <p className="text-gray-400">&copy; {new Date().getFullYear()} De Mololoog. Alle rechten voorbehouden.</p>
+            <p className="text-gray-400 text-sm">Deze website is niet geassocieerd met GoPlay/Play Media.</p>
+          </div>
         </div>
       </footer>
     </div>
