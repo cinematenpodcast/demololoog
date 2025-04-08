@@ -73,7 +73,7 @@ function App() {
               <span className="text-base font-semibold whitespace-nowrap">Podcasts</span>
             </a>
             <a 
-              href="https://anchor.fm/s/1035d87f8/podcast/rss" 
+              href="https://pca.st/709ih5of" 
               className="flex flex-col items-center gap-0 bg-[#024D6C] hover:bg-[#035d84] px-4 py-2 rounded-lg transition-colors text-center group"
               target="_blank"
               rel="noopener noreferrer"
