@@ -62,7 +62,7 @@ function App() {
           </a>
 
           {/* Other Platform Links */}
-          <div className="grid grid-cols-3 gap-3">
+          <div className="grid grid-cols-4 gap-3">
             <a 
               href="https://podcasts.apple.com/us/podcast/de-mololoog/id1807142206" 
               className="flex flex-col items-center gap-0 bg-[#024D6C] hover:bg-[#035d84] px-4 py-2 rounded-lg transition-colors text-center group"
@@ -80,6 +80,15 @@ function App() {
             >
               <span className="text-base font-semibold whitespace-nowrap">Pocket</span>
               <span className="text-base font-semibold whitespace-nowrap">Casts</span>
+            </a>
+            <a 
+              href="https://music.youtube.com/playlist?list=PLqUfKQeHXBR5iJ6OMdgXrUJBJWJCAShGp" 
+              className="flex flex-col items-center gap-0 bg-[#024D6C] hover:bg-[#035d84] px-4 py-2 rounded-lg transition-colors text-center group"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className="text-base font-semibold whitespace-nowrap">YouTube</span>
+              <span className="text-base font-semibold whitespace-nowrap">Music</span>
             </a>
             <a 
               href="https://anchor.fm/s/1035d87f8/podcast/rss" 
