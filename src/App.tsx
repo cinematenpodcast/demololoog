@@ -26,7 +26,7 @@ function App() {
       <section id="about" className="pt-0 md:pt-20 pb-12 px-4 md:px-8 max-w-3xl mx-auto">
         <h1 className="text-2xl md:text-3xl font-bold mb-8 text-[#59C1C7] text-center md:text-left">De leukste Vlaamse nabespreking podcast over De Mol van GoPlay!</h1>
         <p className="text-lg text-gray-300 mb-12 space-y-4 text-center md:text-left">
-          <span className="block">Krijg je maar niet genoeg van De Mol 2024? Kan Café de Mol je honger naar theorieën en discussies maar niet stillen?</span>
+          <span className="block">Krijg je maar niet genoeg van De Mol 2025? Kan Café de Mol je honger naar theorieën en discussies maar niet stillen?</span>
           <span className="block">Ben je al fan van het programma vol saboteurs sinds de zender nog Vier of Play4 heette?</span>
           <span className="block font-semibold text-[#59C1C7]">Dan is De Mololoog dé podcast voor jou!</span>
           <span className="block">Maarten en Yorrick bespreken elke week de nieuwste aflevering van de vlaamse versie van De Mol.</span>
