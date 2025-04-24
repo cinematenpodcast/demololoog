@@ -1,5 +1,9 @@
 {
-  "rewrites": [
-    { "source": "/luister", "destination": "/luister.html" }
+  "redirects": [
+    { 
+      "source": "/luister", 
+      "destination": "https://open.spotify.com/show/1fU6DDJA7KJBE86XAlxQmn", 
+      "permanent": true 
+    }
   ]
 } 
