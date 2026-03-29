@@ -28,6 +28,7 @@ function App() {
           src="/images/de-mololoog-header-s02.webp"
           alt="De Mololoog - Cinematen Presenteert"
           className="max-w-[225%] h-auto"
+          fetchPriority="high"
         />
       </section>
 
