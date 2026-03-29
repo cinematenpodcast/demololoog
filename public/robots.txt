@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://de-mololoog.be/sitemap.xml 
+Sitemap: https://demololoog.be/sitemap.xml 
